@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply a dark background to the entire page */
+body {
+    background-color: #1a202c; /* Dark gray background */
+    color: white; /* Light text color */
+  }
+  
