@@ -8,16 +8,29 @@ It allows you to manage a list of users with functionalities such as searching, 
 Ive used mock data for the testing.
 
 ##Features
+
 **User Management**: View, delete, and sort users.
+
 **Search Functionality**: Search users by name or email.
+
 **Sorting**: Sort users by name or status.
+
 **Pagination**: Navigate between pages with limited users per page.
+
 **Detailed View**: View detailed information about each user.
+
 **Analytics**: Navigate to analytics (chart-based user data) using Chart.js.
 
+
 ##Technologies used
+
 **React** - JavaScript library for building user interfaces.
+
 **Redux** - A state management library for React.
+
 **Chart.js** - A charting library for visualizing data.
+
 **React Router** - For routing between pages.
+
 **Tailwind CSS** - Utility-first CSS framework for styling.
+
